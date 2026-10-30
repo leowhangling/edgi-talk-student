@@ -1,3 +1,8 @@
-# edgi talk student
+# Edgi Pulse
 Leow Hang Ling's project
-This is my project 
+Edgi Pulse is a university student AI companion designed to improve the health, well-being, and academic productivity in dormitory environments. It integrates with Sensirion SEN66 air quality sensor addresses the hidden challenges of poor indoor air quality (CO鈧? VOCs, and odors) and student time management. It automatically triggers a micro-pump to dispense an eco-friendly organic enzyme made by my mother that active-neutralizes airborne bacteria and odors.It operate with offline voice commands with infineon ELM,  accelerated by the Ethos-U55 NPU,  that provides a completely hands-free interface for managing smart alarms, an intelligent snooze system, and daily academic to-do lists. It delivers an innovative combination of edge intelligence and physical automation, providing an optimal learning and living environment without cloud data privacy concerns.
+Key Features as below: 
+edge AI Voice System: Edgi Pulse can processes complex Keyword Spotting (KWS) locally. Students manage alarms, execute a 10-minute snooze, and edit academic to-do lists purely via voice commands, even while the device audio is actively playing.
+Closed-Loop Environmental Automation: Via Sensirion SEN66 sensor, the system tracks ambient environmental air indexes. When pollutants cross critical safety thresholds, a GPIO-controlled MOSFET circuit fires a micro-solenoid pump, dispensing a fine mist of organic enzyme spray to actively purify the air.
+Health-Aware Scheduling: The software cross-references the internal hardware RTC with the spray actuator, executing a "Pre-Wake Refresh" mist 10 minutes prior to the morning alarm so the student wakes up in a crisp, clean environment.
+Rich HMI Interface: A 4.3-inch touchscreen powered by RT-Thread graphics packages handles simultaneous tasks, rendering data logs, task checklists, and interactive AI expressions like xiaozhi
