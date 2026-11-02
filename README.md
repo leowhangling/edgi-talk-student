@@ -2,7 +2,7 @@
 
 [Video demo](https://youtu.be/Upwc5Jk1VvE)
 
-# Sending AHT20 Temperature and Humidity from RT-Thread (Edgi Talk M55) to the Odoo SPC Dashboard
+# Sending AHT20 Temperature and Humidity from RT-Thread Edgi Talk to the Odoo SPC Dashboard
 Project documentation, step by step. Replace the placeholders in square brackets with your own details. Never write the API key or the Wi-Fi password into this document.
 ## 1. Overview
 Goal: read temperature and humidity from the AHT20 sensor on the Edgi Talk M55 board, and show the readings as points on the Edgi Talk SPC control charts in Odoo.
