@@ -1,4 +1,4 @@
-# Edgi Talk smart machine IIoT monitoring system
+# Edgi Talk smart machine IIoT monitoring system, connecting to Odoo ERP
 
 [Video demo](https://youtu.be/Upwc5Jk1VvE)
 
