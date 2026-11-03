@@ -1,0 +1,27 @@
+[
+ {
+  "name": "WEBCLIENT",
+  "path": "/packages/iot/webclient",
+  "ver": "v2.2.0"
+ },
+ {
+  "name": "NETUTILS",
+  "path": "/packages/iot/netutils",
+  "ver": "latest"
+ },
+ {
+  "name": "MBEDTLS",
+  "path": "/packages/security/mbedtls",
+  "ver": "v2.28.1"
+ },
+ {
+  "name": "FREERTOS_WRAPPER",
+  "path": "/packages/system/FreeRTOS_Wrapper",
+  "ver": "latest"
+ },
+ {
+  "name": "AHT10",
+  "path": "/packages/peripherals/sensors/aht10",
+  "ver": "latest"
+ }
+]
